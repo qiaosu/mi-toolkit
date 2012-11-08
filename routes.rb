@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get "/" do
-  puts 'get'
+  "hello world."
 end
 
 post "/" do
